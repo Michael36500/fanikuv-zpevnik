@@ -37,7 +37,7 @@ export default {
   },
   actions: {
     async loadSongs ({ commit }) {
-      axios.get('https://raw.githubusercontent.com/martisekpetr/bratruv-zpevnik/master/zpevnik.tex')
+      axios.get('https://raw.githubusercontent.com/Michael36500/fanikuv-zpevnik/master/zpevnik.tex')
         .then(response => {
           const songs = parseAllSongs(response)
           commit('setSongs', songs)

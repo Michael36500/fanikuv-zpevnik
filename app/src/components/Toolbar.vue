@@ -41,7 +41,7 @@
 
         <v-list-tile
           key="pdf"
-          href="https://github.com/martisekpetr/bratruv-zpevnik/raw/master/zpevnik.pdf"
+          href="https://github.com/Michael36500/fanikuv-zpevnik/raw/master/zpevnik.pdf"
         >
           <v-list-tile-action>
             <v-icon>save_alt</v-icon>
