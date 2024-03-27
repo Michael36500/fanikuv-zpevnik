@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2699d576ab15fd3a0a87b9b27d5bf831.js"
+  "/precache-manifest.253b9368850c295838da4f54d1d08b94.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bratruvzpevnik"});
