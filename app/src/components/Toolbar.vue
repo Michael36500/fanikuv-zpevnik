@@ -138,9 +138,11 @@
 
         <v-card-text>
           <h4>Verze</h4>
-          5.0.0
+            Alpha (bratrův zpěvník 5.0.0)
           <h4>Autor</h4>
-          Petr "Bratr" Martišek<br>
+          Michael Ambros & Petr "Bratr" Martišek<br>
+          <a href=ambros.michael@seznam.cz">
+            ambros.michael@seznam.cz
           <a href="mailto:martisekpetr@gmail.com">
             martisekpetr@gmail.com
           </a>
